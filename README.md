@@ -7,5 +7,7 @@ See https://hub.docker.com/r/jobirobi/docker-raspbianstretch-ansible for built i
 ## Contents of this repository
 
 Dockerfile
+
 qemu-arm-static: version 2.5.0 (Debian 1:2.5+dfsg-5ubuntu10.43), Copyright (c) 2003-2008 Fabrice Bellard
+
 initctl_faker: https://github.com/geerlingguy/docker-debian9-ansible/blob/master/initctl_faker
